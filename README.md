@@ -5,6 +5,7 @@ This is a personal changelog of my updates. Not everything is code. I wanted to 
 
 Main Categories:
 - 🍎- Clean Eating!
+- 📗- New Business Development
 - 🖊- Writing
 - ✝️ - Devotional
 - 🏋️‍- Exercise
