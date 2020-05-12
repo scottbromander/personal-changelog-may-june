@@ -14,4 +14,5 @@ Main Categories:
 
 ---
 #### Monday, May 11th, 2020
+- 💻- Learning Next.js, from their [website](https://nextjs.org/learn/basics/create-nextjs-app).
 - 🏋️‍- Cardio - 20 mins
