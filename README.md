@@ -14,6 +14,7 @@ Main Categories:
 
 ---
 #### Monday, May 11th, 2020
+- 🍎- Clean Eating!
 - ✝️ - Devotional
 - 📚 - Blinked, [The War for Kindness](https://www.blinkist.com/books/the-war-for-kindness-en)
 - 📗- Identified content to learn about starting businesses, and digital marketing
