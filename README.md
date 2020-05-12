@@ -13,6 +13,9 @@ Main Categories:
 - 📚- Reading
 
 ---
+#### Tuesday, May 12th, 2020
+- 🏋️‍- Upper Body - 30 mins
+
 #### Monday, May 11th, 2020
 - 🍎- Clean Eating!
 - ✝️ - Devotional
