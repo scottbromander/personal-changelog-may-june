@@ -14,6 +14,8 @@ Main Categories:
 
 ---
 #### Monday, May 11th, 2020
+- ✝️ - Devotional
+- 📚 - Blinked, [The War for Kindness](https://www.blinkist.com/books/the-war-for-kindness-en)
 - 📗- Identified content to learn about starting businesses, and digital marketing
 - 💻- Learning Next.js, from their [website](https://nextjs.org/learn/basics/create-nextjs-app).
 - 🏋️‍- Cardio - 20 mins
