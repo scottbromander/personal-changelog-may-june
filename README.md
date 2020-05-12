@@ -14,5 +14,6 @@ Main Categories:
 
 ---
 #### Monday, May 11th, 2020
+- 📗- Identified content to learn about starting businesses, and digital marketing
 - 💻- Learning Next.js, from their [website](https://nextjs.org/learn/basics/create-nextjs-app).
 - 🏋️‍- Cardio - 20 mins
