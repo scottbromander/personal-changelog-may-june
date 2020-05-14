@@ -16,6 +16,13 @@ Main Categories:
 #### Tuesday, May 12th, 2020
 - 🍎- Clean Eating!
 - ✝️ - Devotional
+- 📚 - Blinked, [Performing Under Pressure](https://www.blinkist.com/books/performing-under-pressure-en)
+- 💻- Learning Next.js, from their [website](https://nextjs.org/learn/basics/create-nextjs-app).
+- 🏋️‍- Cardio - 25 mins
+
+#### Tuesday, May 12th, 2020
+- 🍎- Clean Eating!
+- ✝️ - Devotional
 - 📚 - Blinked, [Got Your Attention?](https://www.blinkist.com/en/books/got-your-attention-en)
 - 📗- [Team Treehouse - How to Start a Business](https://teamtreehouse.com/library/how-to-start-a-business-revamp/)
 - 💻- Learning Next.js, from their [website](https://nextjs.org/learn/basics/create-nextjs-app).
