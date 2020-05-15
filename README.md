@@ -13,7 +13,7 @@ Main Categories:
 - 📚- Reading
 
 ---
-#### Wednesday, May 13th, 2020
+#### Thursday, May 14th, 2020
 - 🍎- Clean Eating!
 - ✝️ - Devotional
 - 💻- Learning Next.js, from their [website](https://nextjs.org/learn/basics/create-nextjs-app).
