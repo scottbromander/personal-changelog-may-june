@@ -13,6 +13,10 @@ Main Categories:
 - 📚- Reading
 
 ---
+#### Friday, May 15th, 2020
+- 📚 - Blinked, [Steal the Show](https://www.blinkist.com/books/steal-the-show-en)
+- 🏋️‍- Cardio - 28 mins
+
 #### Thursday, May 14th, 2020
 - 🍎- Clean Eating!
 - ✝️ - Devotional
