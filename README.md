@@ -13,7 +13,13 @@ Main Categories:
 - 📚- Reading
 
 ---
-#### Tuesday, May 12th, 2020
+#### Wednesday, May 13th, 2020
+- 🍎- Clean Eating!
+- ✝️ - Devotional
+- 💻- Learning Next.js, from their [website](https://nextjs.org/learn/basics/create-nextjs-app).
+- 🏋️‍- Cardio - 25 mins
+
+#### Wednesday, May 13th, 2020
 - 🍎- Clean Eating!
 - ✝️ - Devotional
 - 📚 - Blinked, [Performing Under Pressure](https://www.blinkist.com/books/performing-under-pressure-en)
