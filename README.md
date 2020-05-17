@@ -13,6 +13,10 @@ Main Categories:
 - 📚- Reading
 
 ---
+#### Saturday, May 16th, 2020
+- 💻- Learning Next.js from [Mastering Next.js](https://masteringnextjs.com/)
+- 🏋️‍- Full Body - 27 mins
+
 #### Friday, May 15th, 2020
 - 📚 - Blinked, [Steal the Show](https://www.blinkist.com/books/steal-the-show-en)
 - 🏋️‍- Cardio - 28 mins
