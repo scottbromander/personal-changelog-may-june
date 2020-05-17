@@ -14,6 +14,8 @@ Main Categories:
 
 ---
 #### Saturday, May 16th, 2020
+- 📚 - Blinked, [Do I Make Myself Clear?](https://www.blinkist.com/books/do-i-make-myself-clear-en)
+- ✝️ - Devotional
 - 💻- Learning Next.js from [Mastering Next.js](https://masteringnextjs.com/)
 - 🏋️‍- Full Body - 27 mins
 
