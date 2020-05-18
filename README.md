@@ -13,6 +13,10 @@ Main Categories:
 - 📚- Reading
 
 ---
+#### Sunday, May 17th, 2020
+- ✝️ - Devotional
+- 🏋️‍- Pilates - 25 mins
+
 #### Saturday, May 16th, 2020
 - 📚 - Blinked, [Do I Make Myself Clear?](https://www.blinkist.com/books/do-i-make-myself-clear-en)
 - ✝️ - Devotional
