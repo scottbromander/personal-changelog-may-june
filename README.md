@@ -13,6 +13,12 @@ Main Categories:
 - 📚- Reading
 
 ---
+#### Monday, May 18th, 2020
+- 🍎- Clean Eating!
+- 📗- [Team Treehouse - How to Start a Business](https://teamtreehouse.com/library/how-to-start-a-business-revamp/)
+- 💻- Learning Next.js from [Mastering Next.js](https://masteringnextjs.com/)
+- 🏋️‍- Cardio - 40 mins
+
 #### Sunday, May 17th, 2020
 - ✝️ - Devotional
 - 🏋️‍- Pilates - 25 mins
