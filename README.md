@@ -13,8 +13,13 @@ Main Categories:
 - 📚- Reading
 
 ---
+#### Tuesday, May 19th, 2020
+- 🏋️‍- Upper Body - 25 mins
+
 #### Monday, May 18th, 2020
 - 🍎- Clean Eating!
+- ✝️ - Devotional
+- 📚- Reading, [The Unseen Realm](https://www.amazon.com/Unseen-Realm-Recovering-Supernatural-Worldview/dp/1577995562)
 - 📗- [Team Treehouse - How to Start a Business](https://teamtreehouse.com/library/how-to-start-a-business-revamp/)
 - 💻- Learning Next.js from [Mastering Next.js](https://masteringnextjs.com/)
 - 🏋️‍- Cardio - 40 mins
