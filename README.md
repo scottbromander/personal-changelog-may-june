@@ -15,6 +15,9 @@ Main Categories:
 ---
 #### Tuesday, May 19th, 2020
 - 🍎- Clean Eating!
+- ✝️ - Devotional
+- 💻- Learning Next.js from [Mastering Next.js](https://masteringnextjs.com/)
+- 📗- [Team Treehouse - How to Start a Business](https://teamtreehouse.com/library/how-to-start-a-business-revamp/)
 - 📚 - Blinked, [Reality Is Not What It Seems](https://www.blinkist.com/books/reality-is-not-what-it-seems-en)
 - 🏋️‍- Upper Body - 25 mins
 
