@@ -13,7 +13,7 @@ Main Categories:
 - 📚- Reading
 
 ---
-#### Tuesday, May 19th, 2020
+#### Wednesday, May 20th, 2020
 - 🍎- Clean Eating!
 - ✝️ - Devotional
 - 📚- Reading, [The Unseen Realm](https://www.amazon.com/Unseen-Realm-Recovering-Supernatural-Worldview/dp/1577995562)
