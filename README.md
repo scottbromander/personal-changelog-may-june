@@ -13,6 +13,10 @@ Main Categories:
 - 📚- Reading
 
 ---
+#### Thursday, May 21st, 2020
+- 🏋️‍- Abs - 10 mins
+- 🏋️‍- Cardio - 25 mins
+
 #### Wednesday, May 20th, 2020
 - 🍎- Clean Eating!
 - ✝️ - Devotional
