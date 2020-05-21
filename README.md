@@ -17,6 +17,7 @@ Main Categories:
 - 🍎- Clean Eating!
 - ✝️ - Devotional
 - 📚- Reading, [The Unseen Realm](https://www.amazon.com/Unseen-Realm-Recovering-Supernatural-Worldview/dp/1577995562)
+- 📚 - Blinked, [The Genius of Opposites](https://www.blinkist.com/en/nc/reader/the-genius-of-opposites-en)
 - 💻- Learning Next.js from [Mastering Next.js](https://masteringnextjs.com/)
 - 🏋️‍- Cardio - 40 mins
 
