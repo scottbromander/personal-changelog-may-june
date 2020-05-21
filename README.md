@@ -14,6 +14,7 @@ Main Categories:
 
 ---
 #### Thursday, May 21st, 2020
+- 📚- Blinked, [SuperBetter](https://www.blinkist.com/books/superbetter-en)
 - 🏋️‍- Abs - 10 mins
 - 🏋️‍- Cardio - 25 mins
 
