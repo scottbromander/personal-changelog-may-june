@@ -14,6 +14,9 @@ Main Categories:
 
 ---
 #### Thursday, May 21st, 2020
+- ✝️ - Devotional
+- 📚- Reading, [The Unseen Realm](https://www.amazon.com/Unseen-Realm-Recovering-Supernatural-Worldview/dp/1577995562)
+- 🖊- Writing, Book Notes
 - 📚- Blinked, [SuperBetter](https://www.blinkist.com/books/superbetter-en)
 - 🏋️‍- Abs - 10 mins
 - 🏋️‍- Cardio - 25 mins
