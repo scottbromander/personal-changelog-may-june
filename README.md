@@ -13,7 +13,7 @@ Main Categories:
 - 📚- Reading
 
 ---
-### Friday, May 22nd, 2020
+#### Friday, May 22nd, 2020
 - ✝️ - Devotional
 - 📚- Reading, [The Unseen Realm](https://www.amazon.com/Unseen-Realm-Recovering-Supernatural-Worldview/dp/1577995562)
 - 💻- Learning Next.js from [Mastering Next.js](https://masteringnextjs.com/)
