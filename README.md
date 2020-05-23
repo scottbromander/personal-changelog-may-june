@@ -13,6 +13,13 @@ Main Categories:
 - 📚- Reading
 
 ---
+### Friday, May 22nd, 2020
+- ✝️ - Devotional
+- 📚- Reading, [The Unseen Realm](https://www.amazon.com/Unseen-Realm-Recovering-Supernatural-Worldview/dp/1577995562)
+- 💻- Learning Next.js from [Mastering Next.js](https://masteringnextjs.com/)
+- 📚- Blinked, [The Power of Bad](https://www.blinkist.com/en/nc/reader/the-power-of-bad-en)
+- 🏋️‍- Cardio - 40 mins
+
 #### Thursday, May 21st, 2020
 - ✝️ - Devotional
 - 📚- Reading, [The Unseen Realm](https://www.amazon.com/Unseen-Realm-Recovering-Supernatural-Worldview/dp/1577995562)
