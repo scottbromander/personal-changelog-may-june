@@ -15,6 +15,7 @@ Main Categories:
 ---
 #### Saturday, May 23rd, 2020
 - ✝️ - Devotional
+- 📗- [Team Treehouse - How to Start a Business](https://teamtreehouse.com/library/how-to-start-a-business-revamp/)
 - 📚- Blinked, [The 3 Minute Rule](https://www.blinkist.com/books/the-3-minute-rule-en)
 - 📚- Blinked, [Subscribed](https://www.blinkist.com/books/subscribed-en)
 - 🏋️‍- Full Body - 27 mins
