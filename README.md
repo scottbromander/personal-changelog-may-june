@@ -13,6 +13,12 @@ Main Categories:
 - 📚- Reading
 
 ---
+#### Saturday, May 23rd, 2020
+- ✝️ - Devotional
+- 📚- Blinked, [The 3 Minute Rule](https://www.blinkist.com/books/the-3-minute-rule-en)
+- 📚- Blinked, [Subscribed](https://www.blinkist.com/books/subscribed-en)
+- 🏋️‍- Full Body - 27 mins
+
 #### Friday, May 22nd, 2020
 - ✝️ - Devotional
 - 📚- Reading, [The Unseen Realm](https://www.amazon.com/Unseen-Realm-Recovering-Supernatural-Worldview/dp/1577995562)
