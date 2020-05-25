@@ -18,6 +18,7 @@ Main Categories:
 - ✝️ - Service
 - 📗- Business Canvas Development
 - 📗- [Team Treehouse - How to Start a Business](https://teamtreehouse.com/library/how-to-start-a-business-revamp/)
+- 📚- Reading, [The Unseen Realm](https://www.amazon.com/Unseen-Realm-Recovering-Supernatural-Worldview/dp/1577995562)
 - 📚- Blinked, [Humility Is The New Smart](https://www.blinkist.com/books/humility-is-the-new-smart-en)
 
 #### Saturday, May 23rd, 2020
