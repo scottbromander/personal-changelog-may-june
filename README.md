@@ -13,7 +13,7 @@ Main Categories:
 - 📚- Reading
 
 ---
-#### Sunday, May 24th, 2020
+#### Monday, May 25th, 2020
 - 🍎- Clean Eating!
 - ✝️ - Devotional
 - 📗- Business Canvas Development
