@@ -14,6 +14,14 @@ Main Categories:
 
 ---
 #### Sunday, May 24th, 2020
+- 🍎- Clean Eating!
+- ✝️ - Devotional
+- 📗- Business Canvas Development
+- 📗- [Team Treehouse - How to Start a Business](https://teamtreehouse.com/library/how-to-start-a-business-revamp/)
+- 📚- Reading, [The Unseen Realm](https://www.amazon.com/Unseen-Realm-Recovering-Supernatural-Worldview/dp/1577995562)
+- 📚- Blinked, [The Desire Map](https://www.blinkist.com/books/the-desire-map-en)
+
+#### Sunday, May 24th, 2020
 - ✝️ - Devotional
 - ✝️ - Service
 - 📗- Business Canvas Development
