@@ -4,15 +4,26 @@
 This is a personal changelog of my updates. Not everything is code. I wanted to create visability around the behaviors and habits for my students. Note that this log is starting as of May 11th, 2020 and it not a full description of what I have read and courses I have taken.
 
 Main Categories:
-- 🍎- Clean Eating!
-- 📗- New Business Development
-- 🖊- Writing
+- 🍎 - Clean Eating!
+- 📗 - New Business Development
+- 🖊 - Writing
 - ✝️ - Devotional
-- 🏋️‍- Exercise
-- 💻- Code - Building / Learning
-- 📚- Reading
+- 🏋️‍ - Exercise
+- 💻 - Code - Building / Learning
+- 📚 - Reading
 
 ---
+#### Friday, May 29th, 2020
+- 🍎 - Clean Eating!
+- ✝️ - Devotional
+- ✝️ - Service
+- 🏋️‍- Cardio - 40 Mins
+
+#### Thursday, May 28th, 2020
+- ✝️ - Devotional
+- 💻 - Learning, [3 ways to record AUDIO for INTERVIEWS](https://www.youtube.com/watch?v=ADD2k0tIz4o)
+- 💻 - Learning, [How to Shoot an Interview | Job Shadow](https://www.youtube.com/watch?v=J7ENEuqXDwY)
+
 #### Monday, May 25th, 2020
 - 🍎- Clean Eating!
 - ✝️ - Devotional
